@@ -24,19 +24,6 @@
 // for(let i=0;i<10;i++){
 //     console.log(i)
 // }
-// for (let i = 0; i < notas.length; i++) {
-//     const nota = notas[i];
-//     soma = soma + nota;
-// }
-// let soma = 0;
-
-// for (let i = 0; i < notas.length; i++) {
-//     const nota = notas[i];
-//     somar= somar + nota;
-// }
-
-// const media = somar / notas.length;
-// console.log(media);
 
 
 
